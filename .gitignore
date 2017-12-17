@@ -12,3 +12,6 @@ Saved
 *.xcodeproj
 *.xcworkspace
 .vs/
+Content/KiteDemo/
+Content/StarterContent/
+Content/WaterPlane/
